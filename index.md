@@ -1,3 +1,5 @@
+<img src="https://github.com/mritunjaytiwari14.png" align="right" width="120" style="border-radius: 50%;">
+
 # Open Source Contributions — mritunjaytiwari14
 
 This page lists all my pull requests to the **Zulip Flutter** project.
@@ -5,15 +7,11 @@ This page lists all my pull requests to the **Zulip Flutter** project.
 ---
 
 ## 🔵 Merged Pull Requests (Zulip Flutter)
-Click the link below to view all PRs that have been merged:
-
 👉 [View merged PRs](https://github.com/pulls?q=is%3Apr+author%3Amritunjaytiwari14+repo%3Azulip%2Fzulip-flutter+is%3Amerged)
 
 ---
 
 ## 🟡 All Created Pull Requests (Zulip Flutter)
-This includes open, closed, and merged PRs that I created:
-
 👉 [View all created PRs](https://github.com/pulls?q=is%3Apr+author%3Amritunjaytiwari14+repo%3Azulip%2Fzulip-flutter)
 
 ---
@@ -26,5 +24,4 @@ I contribute by improving features, fixing bugs, and enhancing the app experienc
 ---
 
 ## 📫 Contact
-
 - GitHub: [mritunjaytiwari14](https://github.com/mritunjaytiwari14)
