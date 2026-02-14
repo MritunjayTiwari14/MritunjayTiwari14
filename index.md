@@ -7,7 +7,7 @@ This page lists all my pull requests to the **Zulip Flutter** project.
 ---
 
 ## 🔵 Merged Pull Requests (Zulip Flutter)
-👉 [View merged PRs](https://github.com/pulls?q=is%3Apr+author%3Amritunjaytiwari14+repo%3Azulip%2Fzulip-flutter+is%3Amergedd)
+👉 [View merged PRs](https://github.com/pulls?q=is%3Apr+author%3Amritunjaytiwari14+repo%3Azulip%2Fzulip-flutter+is%3Amerged)
 
 ---
 
